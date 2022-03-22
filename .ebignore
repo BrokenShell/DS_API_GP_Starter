@@ -1,0 +1,10 @@
+.env
+venv/
+notebooks/
+README.md
+initialize.py
+run.sh
+.idea/
+.gitignore
+**/__pycache__/
+saved_model/model.job

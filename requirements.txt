@@ -1,0 +1,11 @@
+boto3==1.21.23
+dnspython==2.2.1
+fastapi==0.75.0
+joblib==1.1.0
+MonsterLab==1.2.2
+pandas==1.4.1
+pymongo[srv]==4.0.2
+python-dotenv==0.19.2
+pytz==2022.1
+scikit-learn==1.0.2
+uvicorn[standard]==0.17.6

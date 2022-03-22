@@ -1,0 +1,6 @@
+# Local Environment
+/venv
+.env
+
+# Temporary files
+/scratch.py
