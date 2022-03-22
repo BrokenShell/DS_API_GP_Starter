@@ -1,6 +1,7 @@
 # Local Environment
 /venv
 .env
+.idea/
 
 # Temporary files
 /scratch.py
